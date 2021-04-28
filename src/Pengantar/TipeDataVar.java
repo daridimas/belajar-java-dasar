@@ -1,3 +1,5 @@
+package Pengantar;
+
 public class TipeDataVar {
     public static void main(String[] args) {
         // Error Join Declaration & Assignment

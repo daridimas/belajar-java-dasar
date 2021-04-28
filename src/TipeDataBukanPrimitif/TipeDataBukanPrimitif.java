@@ -41,10 +41,12 @@ public class TipeDataBukanPrimitif {
         short shortAge = ageObject.shortValue();
         byte byteAge = ageObject.byteValue();
         float floatAge = ageObject.floatValue();
+        String iniadalahString = null;
 
         System.out.println(shortAge);
         System.out.println(byteAge);
         System.out.println(floatAge);
+        System.out.println(iniadalahString);
 
     }
 }

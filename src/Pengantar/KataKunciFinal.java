@@ -1,3 +1,5 @@
+package Pengantar;
+
 public class KataKunciFinal {
     public static void main(String[] args) {
         final String name = "Dimas Arie Prasojo";

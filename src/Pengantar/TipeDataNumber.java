@@ -1,3 +1,5 @@
+package Pengantar;
+
 import com.sun.source.tree.LiteralTree;
 
 public class TipeDataNumber {
